@@ -5,7 +5,7 @@ Po instalaci je nutné vytvořit účet (novou peněženku), případně importo
 V rámci testu je možné přeskočit část o zálohování klíčů, takže registrace zabere pouze pár kliků.
 Po vytvoření účtu je nutné přepnout síť z výchozí "Ethereum Mainnet" na testovací síť Goerli (viz. popis kroků v práci).
 
-Projekt je dostupný ve vývojovém prostředí na adrese: https://codesandbox.io/s/misty-water (viz. odkaz v práci)
+Projekt je dostupný ve vývojovém prostředí na adrese: https://codesandbox.io/s/misty-water-y58v9r
 Pokud budete chtít interagovat přímo s chytrou smlouvou, budete potřebovat nějaké GETH pro pokrytí poplatku za transakce.
 Tato část je "komplikovanější".
 Je nutné vlastnit (mít umístěné v peněžence) alespoň 0,001 ETH, což odpovídá (v současné době) cca 40 Kč. ETH lze získat z kterékoli burzy a následné převést na Vaši novou peněženku.
